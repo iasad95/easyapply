@@ -1,0 +1,23 @@
+*.csv
+*.pyc
+__pycache__/
+.idea/
+
+open_ai_calls.log
+output/
+Templates/output/
+
+.env
+.env.*
+!.env.example
+
+myenv/
+.venv/
+venv/
+
+.DS_Store
+
+Templates/resume.pdf
+Templates/cover_letter.pdf
+
+github banner.xd

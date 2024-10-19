@@ -1,0 +1,9 @@
+selenium>=4.15.0
+undetected-chromedriver>=3.5.5
+PyYAML~=6.0
+validate_email
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+Levenshtein~=0.21.0
+python-dotenv

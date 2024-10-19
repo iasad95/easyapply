@@ -1,0 +1,81 @@
+email: candidate@example.com
+password: ${LINKEDIN_PASSWORD}
+disableAntiLock: False
+
+remote: False
+
+experienceLevel:
+  internship: False
+  entry: True
+  associate: True
+  mid-senior level: True
+  director: False
+  executive: False
+
+jobTypes:
+  full-time: True
+  contract: True
+  part-time: True
+  temporary: True
+  internship: False
+  other: False
+  volunteer: False
+
+date:
+  all time: False
+  month: False
+  week: True
+  "24 hours": True
+
+positions:
+  - software engineer
+  - full stack developer
+  - frontend developer
+  - backend developer
+  # - typescript developer
+  # - full stack developer javascript
+  # - Nest Developer
+  # - MEAN
+  # - MERN
+  #- ...
+locations:
+  - Remote
+  - United States
+  # - United States
+  # - Japan
+  # - Canada
+  # - United Kingdom
+  # - Australia
+  # - Singapore
+  # - Malaysia
+  #- ...
+
+distance: 100
+
+companyBlacklist:
+  - Company A
+  - Company B
+  - Company C
+  #- company2
+
+titleBlacklist:
+  #- Next Sapien
+  #- word2
+
+posterBlacklist:
+  #- name1
+  #- name2
+
+personalInfo:
+  "First Name": Asad
+  "Last Name": Asad
+  "Phone Country Code": United States (+1)
+  "Mobile Phone Number": 5550101234
+  "Street address": 123 Example Street
+  City: Sample City
+  State: Sample State
+  Zip: 00000
+  Linkedin: https://www.linkedin.com/in/i-asad
+  Website: https://asadcodes.com
+
+DISABLE_DESCRIPTION_FILTER: False
